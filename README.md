@@ -1,1 +1,3 @@
-# menterClumSchool
+# Rails学習用
+
+学習用のWebサイトを作って見ます
